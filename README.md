@@ -4,7 +4,7 @@ Cervececia
 Descripción del proyecto
 -----------------------------------------------------------------------------------------------------
 
-La idea del proyecto es simular un E-commerce, en este caso una tienda de ropa. La aplicación permite navegar entre distintas categorías de productos, ver el detalle de estos, agregarlos al carrito y procesar una compra. Se busca simular todo el proceso de compra de un E-commerce real.
+La idea del proyecto es simular un E-commerce de una cerveceria . La aplicación permite navegar entre distintas categorías de productos, ver el detalle de estos, agregarlos al carrito y procesar una compra. Se busca simular todo el proceso de compra de un E-commerce real.
 
 Tecnologías usadas
 -----------------------------------------------------------------------------------------
@@ -15,6 +15,16 @@ Las principales tecnologías usadas son:
 -   React DOM
 -   React Router
 -   Firestore
+-   Bootstrap
+-----------------------------------------------------------------------------------------
+
+Las versiones utilizadas tecnologías usadas son:
+
+- "react": "^17.0.2"
+- "react-bootstrap": "^2.0.0-beta.6"
+- "react-icons": "^4.2.0"
+- "swe Firestoreetalert2": "^11.1.10"
+- "firebase": "^8.10.0" 
 -   Bootstrap
 
 Como levantar el proyecto
@@ -30,8 +40,8 @@ Como levantar el proyecto
 
 Demo
 
-![Demo](https://media.giphy.com/media/8gAQJzmWskjZpMNKSn/giphy.gif)
+![Demo]
 
-[Link](https://www.loom.com/share/9b9e0ec1afe74d7b9754d810d0d3a602/ "Demo").
+[Link](https://www.loom.com/share/49eb2a817ede4dcca5f4976a5316e5ae "Demo").
 
 # PROYECTO-FINAL-REACT
