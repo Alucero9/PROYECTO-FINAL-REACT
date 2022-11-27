@@ -37,10 +37,8 @@ Como levantar el proyecto
 5.  Luego correr el comando "npm start"
 6.  Abrir el browser y dirigirse a la url <http://localhost:3000/>
 
-
-Demo
-
-![Demo]
+Video de funcionamiento en el link
+--------------------------------------------------------------------------------------------------
 
 [Link](https://www.loom.com/share/49eb2a817ede4dcca5f4976a5316e5ae "Demo").
 
