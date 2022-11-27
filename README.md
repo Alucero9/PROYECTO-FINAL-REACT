@@ -40,6 +40,6 @@ Como levantar el proyecto
 Video de funcionamiento en el link
 --------------------------------------------------------------------------------------------------
 
-[Link](https://www.loom.com/share/49eb2a817ede4dcca5f4976a5316e5ae "Demo").
+https://www.loom.com/share/49eb2a817ede4dcca5f4976a5316e5ae
 
 # PROYECTO-FINAL-REACT
